@@ -3,10 +3,9 @@
   <groupId>test</groupId>
   <artifactId>mvntest</artifactId>
   <versioning>
-    <release>0.2.62</release>
     <versions>
-      <version>0.2.62</version>
+      <version>0.2.63-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180424061926</lastUpdated>
+    <lastUpdated>20180424062047</lastUpdated>
   </versioning>
 </metadata>
